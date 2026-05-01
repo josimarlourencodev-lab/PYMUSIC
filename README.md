@@ -1,5 +1,7 @@
 # 🎵 PyMusic
 
+<img width="410" height="524" alt="Image" src="https://github.com/user-attachments/assets/a50e4250-835b-41c5-8b24-71b0ebbc2c07" />
+
 PyMusic is a simple music player made in Python, created as a study project and out of curiosity about how an audio player works at a basic level.
 
 ## 📖 Why does this project exist?
